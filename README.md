@@ -19,7 +19,3 @@ Display | LTPO AMOLED, 6.78 inches, 1264 x 2780 pixels
 
 
 ![gtneo6](https://github.com/user-attachments/assets/cff16d52-be85-42a5-bf27-15daedd51eb0)
-
-
-## What doesn't work
-- Unlock the phone via FOD don't working if the screen is off
